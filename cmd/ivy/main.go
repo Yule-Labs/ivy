@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/lartie/ivy/internal/server"
-	"github.com/lartie/ivy/internal/storage"
+	"github.com/yule-labs/ivy/internal/server"
+	"github.com/yule-labs/ivy/internal/storage"
 	"log"
 	"os"
 	"os/signal"
