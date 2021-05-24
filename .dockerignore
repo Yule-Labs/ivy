@@ -1,0 +1,20 @@
+# common files
+*.log
+*.md
+
+# git
+**/.git/
+**/.gitignore
+**/.gitmodules
+
+# configuration files
+.gitlab-ci.yml
+.dockerignore
+.idea/
+
+# artifacts
+bin/
+
+# misc
+docs/
+/coverage.out
